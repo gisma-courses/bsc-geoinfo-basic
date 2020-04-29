@@ -24,7 +24,7 @@
 
 # Serve on GitHub
 url: https://geomoer.github.io/
-baseurl: "/moer-mhg-spatial/"
+baseurl: "/moer-bsc-geoinformatik_basic/"
 
 ##### Title ###################################################################
 title: Lab of Environmental Informatics
@@ -168,7 +168,7 @@ defaults:
       path: ""
       type: unit03
     values:
-      category: " Reader Intro in R"
+      category: " Reader Intro in "
       tags: "Unit|03"
       layout: single
       sidebar:
