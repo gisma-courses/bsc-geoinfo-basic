@@ -24,7 +24,7 @@
 
 # Serve on GitHub
 url: https://geomoer.github.io/
-baseurl: "/moer-bsc-geoinformatik_basic/"
+baseurl: "/moer-bsc-geoinfo_basic/"
 
 ##### Title ###################################################################
 title: Lab of Environmental Informatics
