@@ -59,6 +59,4 @@ Betrachten Sie das unten stehende Luftbild (Abb. 01-07) und überlegen Sie, wie 
  
 *Abbildung 01-07: Luftbild des Felsengarten Sanspareil (Fränkische Schweiz) als Beispiel eines zu repäsentierenden Wirklichkeitsauschnitts. Es wird vernachlässigt, dass ein Luftbild selbst bereits eine Repräsentation der Wahrnehmung des Fotografen ist (Presse03 2009)*
 
-### Bearbeiten Sie…
-Versuchen Sie das Bild in für Sie wesentliche Kategorien zu abstrahieren und identifizieren Sie hierzu Geoobjekte die ihnen ausreichend ähnlich vorkommen.  Schreiben Sie sich in Stichpunkten die nötigen Abstraktionsschritte und Ihre Vorgehensweise auf.
 

@@ -9,7 +9,7 @@ header:
   caption: 'Photo: [**Reudenbach**]'
   cta_label: Zum Kursinhalt
   cta_url: "/units.html"
-excerpt: Visualisierung und Vorhersage räumlicher Daten.
+excerpt: Manipulation und Analyse räumlicher Daten.
 feature_row_intro:
 - excerpt: Einführungskurs im [Bachelor Studiengang Geographie ](https://www.uni-marburg.de/de/studium/studienangebot/bachelor/geographiebsc){:target="_blank"} an der Philipps Universität Marburg
 feature_row_ilos:
@@ -27,7 +27,7 @@ feature_row_ilos:
 Raum-zeitliche Daten und ihre Manipulation, Analyse und Darstellung sind wissenschaftliche Grundelemente der Geographie. Die Analysen bilden die Grundlage für den Erkenntnisgewinn in der Forschung und die resultierenden Medien sind die zentralen  Kommunikationsmittel. Daten und Datenanalyse sowie die Modellierung dieser Daten sind daher  fester Bestandteil des fachlichen Verstehens. Der basale Umgang mit Daten, Vorbereitung, visuelle Exploration, Analyse und Präsentation stellt eine wichtige Kernkompetenz für das Berufsbild einer Geographin dar. 
 
 ## Lernziele
-Am Ende dieses Teilmoduls können Sie
+Am Ende dieses Teilmoduls können Sie:
 * grundlegende räumliche Datentypen einordnen und kategorisieren sowie angemessen visualisieren, 
 * ausgewählte Faktoren, Funktionen und Prozesse in realen Räumen auf Basis von Geodaten darstellen, beschreiben und erklären,
 * Geodaten für die Lösung spezifischer Probleme auswählen und einsetzen,
@@ -43,7 +43,7 @@ Information aufgrund der **Coronavirus-Pandemie**: Aus Gründen des Infektionssc
 
 ## Studien- und Prüfungsleistung
 
-Es ist ein individuelles Projekt durchzuführen und ein entsprechender Projektbericht zu verfassen. Der Umfang des Berichtes soll je 2-3 Seiten betragen. Genauere Angaben zu den Projekten erfolgen im Kursverlauf. Die Prüfungsleistung ist individuell zu erbringen.
+Es ist ein individuelles Projekt durchzuführen und ein entsprechender Projektbericht zu verfassen. Der Umfang des Berichtes soll je 3-5 Seiten betragen. Weitere Informationen zu den Projekten werden im Kursverlauf mitgeteilt. Die Prüfungsleistung ist individuell zu erbringen.
 
 
 
@@ -53,16 +53,16 @@ Am 04.06.2020 findet die Online-Auftaktveranstaltung statt. Den Link finden Sie 
 
 * Der Link wird je nach technischer Möglichkeit über Ilias bekanntgegeben. Zur Vorbereitung  der Präsenzzeiten wird in Ilias ein Forum eingerichtet in dem die Fragen, die Berücksichtigung finden sollen, bis jeweils Montag Abend 18:00 Uhr eingestellt werden sollten. 
 * Die Präsenzzeit dient der Beantwortung der Fragen, die zu den Vorlesungsinput den Readern und  den gestellten Übungsaufgaben im Forum gestellt wurden. Sollte die Präsenzveranstaltung technisch nicht stattfinden können wird ein Screencast mit der Beantwortung der Fragen und neuem Input online gestellt
-* Die Rahmenbdingungen für die Projektaufgabe wird bis zum 19.05.2020 eingestellt
-* Abgabe des Projektes: 30.06.2020 (04 Uhr)
+* Die Rahmenbdingungen für die Projektaufgabe wird bis zum 19.06.2020 eingestellt
+* Abgabe des Projektes: 15.08.2020 (8.00 Uhr)
 
 ## Kurszeiten und Inhalte
 
 | Sitzung | Datum | Thema | Inhalt |
 |:-------:|:--------:|:---------|:---------|
 | **Block 1** ||||
-| 1 | 04.06.  | Einführung | Einführung in geographische und GI Raumkonzepte, Einführung in `Qgis Portable`, Einstiegsbeispiel Datenaquise |
-| 2 | 11.06.  |  |  |
+| 1 | 04.06.  | Einführung | Abfrage Status Quo, Einführung in geographische und GI Raumkonzepte |
+| 2 | 11.06.  | Open Source Wekzeuge |  Einführung in `Qgis Portable`, Einstiegsbeispiel Datenaquise  |
 | 3 | 18.06.  |  |  |
 | 4 | 25.06.  |  |  |
 | 5 | 02.07.  |  |  |

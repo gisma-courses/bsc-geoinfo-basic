@@ -65,7 +65,7 @@ Wer räumliche Kompetenz erwerben will, muss alle genannten Aspekte und keineswe
 
 Definieren wir also GI-Systeme als Werkzeuge, die nach den Regeln der Informationsverarbeitung zu bedienen und zu nutzen sind, dann müssen wir einen Weg finden, um geographisch so widerstreitende Raumrepräsentationen auf nachvollziehbare und reproduzierbare Weise zu definieren und integrieren.
 
-## Bearbeiten Sie…
+## Denken Sie mit...
 Versuchen Sie einzuordnen welche Relevanz GI in der universitären Ausbildung und Forschungsarbeit im Fach Geographie hat. Besuchen Sie hierzu eine Auswahl von geographischen Instituten im Internet.
 
 

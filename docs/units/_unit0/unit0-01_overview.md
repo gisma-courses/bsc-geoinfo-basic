@@ -1,5 +1,6 @@
 ---
 title: Corona-Pandemie und Präsenzveranstaltungen
+toc: false
 ---
 
 Bedingt durch die Corona-Pandemie findet das Sommersemester umfassend digital statt. Hier finden Sie alle notwendigen Informationen zum Lernen auf Distanz im Rahmen des Moduls Umweltsysteme - Modellierung und Simulation.
@@ -17,7 +18,7 @@ _Verzweifeln Sie nicht. Haben Sie keine Angst aufgrund den Herausforderungen ein
 _Machen wir was draus!_
 
 
-_Thomas Brenner und  Chris Reudenbach_
+_Dietrich Göttlicher und  Chris Reudenbach_
 
 _P. S. Wenn Sie nicht über die notwendigen technischen Voraussetzungen verfügen (z.B. kein Internetzugang) um an der digitalen Lehre teilzunehmen, melden Sie sich bitte umgehend bei uns._
 

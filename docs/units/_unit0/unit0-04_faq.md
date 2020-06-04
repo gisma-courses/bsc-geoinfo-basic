@@ -4,5 +4,5 @@ permalink: /faq.html
 ---
 
 **Wann findet der Kurs statt?**
-  * Dienstag, 18:15-19:45 Uhr
+  * Donnerstag, 8:15-11:45 Uhr
 

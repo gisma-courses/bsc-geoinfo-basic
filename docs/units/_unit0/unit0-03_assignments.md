@@ -5,7 +5,7 @@ toc: true
 
 ## Prüfungsleistung
 
-Die Aufgaben in den Kurseinheiten auf dieser Webseite bilden die Grundlage für IhreProjektarbeit die ein Drittel Ihrer Prüfungsleistungausmacht. Um eine Bewertung zu erhalten, müssen die Projektarbeit auf der [Ilias-Lernplattform](https://ilias.uni-marburg.de/ilias.php?ref_id=1884284&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=ts&baseClass=ilRepositoryGUI) innerhalb des dort angegeben Zeitraums und den [formalen Anforderungen](#formale-anforderungen) entsprechen abgeben werden. Die Prüfungsleistung ist individuell zu erbringen.
+Die Aufgaben in den Kurseinheiten auf dieser Webseite bilden die Grundlage für IhreProjektarbeit die ein Drittel Ihrer Prüfungsleistungausmacht. Um eine Bewertung zu erhalten, müssen die Projektarbeit auf der [Kursbereich der Ilias-Lernplattform](https://ilias.uni-marburg.de/ilias.php?ref_id=1899952&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=ts&baseClass=ilrepositorygui) innerhalb des dort angegeben Zeitraums und den [formalen Anforderungen](#formale-anforderungen) entsprechen abgeben werden. Die Prüfungsleistung ist individuell zu erbringen.
 
 
 
@@ -21,4 +21,4 @@ Verwenden Sie zur Zusammenstellung der Abgabedatei immer ein Textverarbeitungspr
 Wenn Sie die Bearbeitung der Aufgabe abgeschlossen haben, speichern Sie das Dokument als PDF-Datei und laden Sie nur diese Version in ILIAS hoch. 
 
 ## Prüfungsleistung
-Am Ende des Moduls findet eine Mittelung der Bewertungen aller drei Abgaben statt. Die Prüfungsleistung ist individuell zu erbringen.
+Sie bearbeiten ein eigenständiges kleines Projekt. Diese Projektabgabe 3-5 Seiten ist die die Grundlage der zu bewertenden Leistung. Die Prüfungsleistung ist individuell zu erbringen.
