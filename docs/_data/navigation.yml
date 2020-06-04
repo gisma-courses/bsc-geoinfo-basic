@@ -5,7 +5,9 @@ main:
   - title: "FAQ"
     url: /faq.html
   - title: "Zu ILIAS"
-    url: https://ilias.uni-marburg.de/ilias.php?ref_id=1884284&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=ts&baseClass=ilRepositoryGUI
+    url: https://ilias.uni-marburg.de/ilias.php?ref_id=1899952&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=tt&baseClass=ilrepositorygui
+  - title: "Zur Githup"
+    url: https://geomoer.github.io/moer-bsc-geoinfo-basic/
   - title: "Seitenübersicht"
     url: /sitemap.html
     
@@ -16,4 +18,6 @@ docs:
       - title: "Kurseinheiten"
         url: /units.html
       - title: "Zu ILIAS"
-        url: https://ilias.uni-marburg.de/ilias.php?ref_id=1884284&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=ts&baseClass=ilRepositoryGUI
+        url: https://ilias.uni-marburg.de/ilias.php?ref_id=1899952&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=tt&baseClass=ilrepositorygui
+      - title: "Zum OER"
+        url: https://geomoer.github.io/moer-bsc-geoinfo-basic/
