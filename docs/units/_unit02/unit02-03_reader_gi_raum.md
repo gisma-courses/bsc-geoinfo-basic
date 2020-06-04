@@ -1,7 +1,7 @@
 ---
 title: Raum-Datenmodelle
 toc: true
-toc_label: In this worksheet
+toc_label: Inhalt
 ---
 
 
@@ -50,23 +50,10 @@ Durch Anordnung, der sich nicht überschneidenden Zellen in Zeilen und Spalten e
 
 ## Bearbeiten Sie...
 
-Öffnen Sie mit Google Earth die Datei  [Raster oder Vektor](https://drive.google.com/file/d/0B-Zk6jquLjKvTHZBRUJBYW1BT1k/edit?usp=sharing). Versuchen Sie zu identifizieren, welches Datenmodell für welche der dargestellten Information verwendet wird.
+Öffnen Sie mit Google Earth die Datei die zuvor heruntergeladene Datei [Raster oder Vektor](https://raw.githubusercontent.com/GeoMOER/moer-mhg-spatial/master/docs/assets/data/RasteroderVektormodell3D.kmz). Versuchen Sie zu identifizieren, welches Datenmodell für welche der dargestellten Information verwendet wird.
 
   * Welche(s) Datenmodell(e) nutzt ihrer Meinung nach Google Earth?
   * Lassen sich aus den am Bildschirm dargestellten Informationen nähere Eigenschaften des verwendeten Datenmodells ableiten? Wenn ja welche? Wenn nein warum nicht?
   * Schalten Sie auf Vertikalsicht und entfernen Sie die Option Gelände. Zoomen Sie sich langsam bis auf 10 Meter Höhe über Grund. Was beobachten Sie?
 
 
-
-
-## Quellenverzeichnis 02
-
-  * Bartelme, Norbert (2005): Geoinformatik - Modelle, Strukturen, Funktionen. 4. Aufl.- Berlin: Springer.
-  * Bolino, K. (2008): Ausschnitt aus einem zweidimensionales Koordinatensystem [online].[[http://commons.wikimedia.org/wiki/File:Cartesian-coordinate-system.svg|(Herunterladen)]] 
-  * GIS.MA (2009): Eigene Darstellung [online]. Marburg: GISMA.
-  * Müller, C. (2007): Implementation von Problem-based Learning. Bern: hep-verlag.
-  * Sakurambo (2007): Ausschnitt aus einem dreidimensionalen kartesischen Koordinatensystem [online]. [[http://commons.wikimedia.org/wiki/File:3D_coordinate_system.svg|(Herunterladen)]]
-  * Stromkreis. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 9. April 2014, 15:14 UTC. URL:[[ http://de.wikipedia.org/wiki/Stromkreis ]](Abgerufen: 23. April 2014)
-  * Scholz, I. (2009): Der JOSM Editor [online]. Available from: [[http://de.wikipedia.org/w/index.php?title=Datei:JOSM-ss.png]](Abgerufen: 23. April 2014)
-  * Stadtwerke Marburg (2013): Tagesliniennetz der Universitätsstadt Marburg [online]. [[http://stadtwerke-marburg.de/busverkehr-netzplan.html|(Herunterladen)]]
-  
