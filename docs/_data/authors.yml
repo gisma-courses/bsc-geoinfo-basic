@@ -1,11 +1,8 @@
+
 # /_data/authors.yml
+
 - reudenbach:
   name             : "Chris Reudenbach"
   avatar           : "/assets/images/reudenbach.jpg"
-  email            : "reudenbach@geo.uni-marburg.de"
-  home             : "https://www.uni-marburg.de/de/fb19/fachbereich/staff/dr-christoph-reudenbauch"
-- goettlicher:
-  name             : "Dietrich Göttlicher"
-  avatar           : "/assets/images/goettlic.jpg"
-  email            : "goettlic@geo.uni-marburg.de"
-  home             : "https://www.uni-marburg.de/de/fb19/fachbereich/staff/dr-dietrich-goettlicher"
+  email            : "ui-lehre@geo.uni-marburg.de"
+  home             : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik/umweltinformatik"

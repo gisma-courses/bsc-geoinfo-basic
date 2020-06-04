@@ -37,12 +37,12 @@ Diese Webseite dient der einseitigen Kommunikation und Bereitstellung von Materi
 Der [Kursbereich der Ilias-Lernplattform](https://ilias.uni-marburg.de/ilias.php?ref_id=1899952&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=ts&baseClass=ilrepositorygui) dient der Organisation des Kurses, der Bereitstellung urheberrechtlich geschützter Materialien, der Bereitstellung weiterer Kommunikationsformate und der Abgabe von Aufgaben.
 
 ### Foren in Ilias
-Foren nutzten wir wie schon angesprochen für die Vorbereitung der Veranstaltung. Wenn Sie eine Frage an uns richten möchten, nutzen Sie bitte das Forum im Kursbereich altrnativ eine email an reudenbach@uni-marburg mit dem Betreff [GI-BASIC]. Für die erste Woche haben wir ein Forum für Fragen zur Organisation eingerichtet, danach gibt es für jede Kurseinheit ein Forum für Fragen zu den jeweils aktuell zu bearbeitenden Aufgaben. Überprüfen Sie zuerst, ob Ihre Frage bereits gestellt wurde und wenn nicht, an welcher Stelle im Forum sie sich am besten einordnet. Wir werden auf ihre Fragen primär in den Tutorien eingehen. Bei generellen Problemen werden wir Antworten auch auf dieser Seite zusammenstellen.
+Foren nutzten wir wie schon angesprochen für die Vorbereitung der Veranstaltung. Wenn Sie eine Frage an uns richten möchten, nutzen Sie bitte das Forum im Kursbereich. Für die erste Woche haben wir ein Forum für Fragen zur Organisation eingerichtet, danach gibt es für jede Kurseinheit ein Forum für Fragen zu den jeweils aktuell zu bearbeitenden Aufgaben. Überprüfen Sie zuerst, ob Ihre Frage bereits gestellt wurde und wenn nicht, an welcher Stelle im Forum sie sich am besten einordnet. Wir werden auf ihre Fragen primär in den Tutorien eingehen. Bei generellen Problemen werden wir Antworten auch auf dieser Seite zusammenstellen.
 
 Bitte bedenken Sie, dass wir Zusatzmaterial nur dann erstellen können, wenn wir wissen, wo die Probleme liegen. Nutzen Sie das Forum also unbedingt um Fragen zu stellen! Sehen Sie von Mails an uns ab, denn es ist wahrscheinlich, dass andere Kommilitonen sich ähnliches wie Sie selbst fragen und es ist daher sinnvoll für alle transparent im Forum zu kommunizieren.
 
 
 ### Direkter Kontakt
-Sie erreichen uns unter der E-Mail reudenbach@geo.uni-marburg.de Betreff: [GI-BASIC]. Umgekehrt erwarten wir, dass wir Sie über Ihre offizielle Students-E-Mail erreichen und Sie diese regelmäßig, mindestens einmal morgens und einmal Abends abfragen.
+Sie erreichen mich unter der E-Mail *reudenbach@geo.uni-marburg.de* bitte nutzen sie den Betreff *[GI-BASIC]*. Umgekehrt erwarten wir, dass wir Sie über Ihre offizielle Students-E-Mail erreichen und Sie diese regelmäßig, mindestens einmal morgens und einmal Abends abfragen.
 
 
