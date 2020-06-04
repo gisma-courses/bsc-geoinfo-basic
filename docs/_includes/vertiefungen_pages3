@@ -1,0 +1,16 @@
+<section class="page__content" itemprop="text">
+  {% for collection in site.collections %}
+{% assign mydocs = site[collection.label] | group_by: 'category' %}
+{% for cat in mydocs %}
+{% if cat.name == "Materialien" %}
+{% assign items = cat.items | sort: 'order' %}
+{% for itm in items limit:1 offset:3 %}
+<a href="{{ itm.url | prepend: site.baseurl}}" class="">{{ itm.title }}</a>
+  {% if itm.content contains site.excerpt_separator %}
+{{ itm.excerpt }}
+{% endif %}
+{% endfor %}
+{% endif %}
+{% endfor %}
+{% endfor %}
+</section>
