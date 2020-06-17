@@ -165,7 +165,7 @@ defaults:
         nav: "units" 
   # unit03
   - scope:
-      path: "Reader QGIS"
+      path: "QGIS Reader"
       type: unit03
     values:
       category: " Reader Intro in "
