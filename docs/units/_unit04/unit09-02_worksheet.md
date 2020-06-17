@@ -8,7 +8,8 @@ header:
 ---
 Der Einstieg in ein komplexe Software ist mühsam. Es ist sinnvoll Analog-Wissen aufzubauen und sich den Zugang logisch-strukturiert und nicht durch *auswendig lernen* der einzelnen Arbeitsschritte zu **erarbeiten**. Das ist nicht geschenkt zumal GIS Softwarepakete zu den komplexesten Konstrukten überhaupt gehören.
 <!--more-->
-Zur Mühsal des Erlernens einer neuen Graphischen Nutzer Schnittstelle (GUI) kommt noch die konzeptuellen und IT-verknüpften Probleme hinzu. Deshalb fangen wir Schritt für Schritt an. 
+## Was wir in dieser Einheit vor haben
+Zur Mühsal des Erlernes neuer konzeptueller und IT-bezogener Problemfelder kommt auch noch die Auseinandersetzung mit einem neuen Graphical-User-Interfaces (GUI) hinzu. Um das etwas abzumildern fangen fangen wir Schritt für Schritt an. 
 
 ## Lernziele 
 
@@ -83,3 +84,7 @@ Die manuelle Erzeugung von Vektordaten wird allgemein als *digitalisieren* bezei
 ###  Tabellen in QGIS importieren
 Der Import von Tabellen beinhaltet eine Vielzahl von Fallstricken. Ganz generell nutzen Tabellendaten in QGIS nur dann etwas wenn sie entweder selbst Koordinaten (also geographische Informationen) enthalten oder aber einen Schlüssel wie z.B eine ID die bereits existierenden Geometriedaten zuzuordnen ist. Generell können Sie aber folgendem Schema folgen:
 [Import von Tabellenblättern oder CSV-Dateien](http://www.qgistutorials.com/de/docs/3/importing_spreadsheets_csv.html)
+
+### Arbeiten mit Projektionen
+Das Kapitel 
+[Arbeiten mit Projektionen](https://docs.qgis.org/3.10/de/docs/user_manual/working_with_projections/working_with_projections.html) ist für Anfängerinnen schwer verständlich. Wichtig ist hier vor allem das korrekte Zuweisen von Projektionen. Für das Umprojizieren von Vektordaten lkohnt sich ein Blick in [Reprojecting and Transforming Data](https://docs.qgis.org/3.10/de/docs/training_manual/vector_analysis/reproject_transform.html).
