@@ -87,4 +87,4 @@ Der Import von Tabellen beinhaltet eine Vielzahl von Fallstricken. Ganz generell
 
 ### Arbeiten mit Projektionen
 Das Kapitel 
-[Arbeiten mit Projektionen](https://docs.qgis.org/3.10/de/docs/user_manual/working_with_projections/working_with_projections.html) ist für Anfängerinnen schwer verständlich. Wichtig ist hier vor allem das korrekte Zuweisen von Projektionen. Für das Umprojizieren von Vektordaten lkohnt sich ein Blick in [Reprojecting and Transforming Data](https://docs.qgis.org/3.10/de/docs/training_manual/vector_analysis/reproject_transform.html).
+[Arbeiten mit Projektionen](https://docs.qgis.org/3.10/de/docs/user_manual/working_with_projections/working_with_projections.html) ist für Anfängerinnen schwer verständlich. Wichtig ist hier vor allem das korrekte Zuweisen von Projektionen. Für das Umprojizieren von Vektordaten lohnt sich ein Blick in [Reprojecting and Transforming Data](https://docs.qgis.org/3.10/de/docs/training_manual/vector_analysis/reproject_transform.html).
