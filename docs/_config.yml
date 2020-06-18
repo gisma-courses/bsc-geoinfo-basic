@@ -165,10 +165,10 @@ defaults:
         nav: "units" 
   # unit03
   - scope:
-      path: "QGIS Reader"
+      path: ""
       type: unit03
     values:
-      category: " Reader Intro in "
+      category: "Reader QGIS"
       tags: "Unit|03"
       layout: single
       sidebar:

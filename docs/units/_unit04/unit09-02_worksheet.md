@@ -37,7 +37,7 @@ Nach dieser Übung können Sie:
 Dieses Arbeitsblatt dient der Einführung in die verschiedenen Datenmodelle im GIS. Zudem lernen Sie, wie Sie eigene Raumdaten ins GIS importieren oder auch selbst im GIS erstellen können. 
 
 
-  * Laden Sie die Datei `mr_RE.tif` in ein zuvor neu angelegtes `QGIS` Projekt. 
+  * Laden Sie die Datei `marburg_RE.tif` in ein zuvor neu angelegtes `QGIS` Projekt. 
      * Informieren Sie sich über die Eigenschaften des Datensatzes. (Projektion, Datenmodell, Werte).
   *  Laden Sie sich von http://download.geofabrik.de/ den Datensatz von Hessen herunter und laden Sie das *Shapefile* `points` in Ihr QGIS Projekt.
     * Informieren Sie sich auch bei diesem Datensatz über die Eigenschaften. (Projektion, Datenmodell, Werte).
@@ -55,7 +55,7 @@ Leider können wir Sie nicht vollständig an dem Thema der korrekten Verortung v
 
 Für den Beginn können wir Ihnen nur sehr deutlich raten das CRS (Coordinate Reference System) bzw KBS (Koordinatenbezugssystem) ihres *Projekts* identisch mit dem KBS einer jeden Datenebene zu halten. So kann sehr einfach einer der häufigsten Alltagsfehler vermieden werden.
 
-* Erstellen Sie ein neues QGIS Projekt. Laden Sie als erstes die Rasterdatei `marburg_RE.tif` und dann im Anschluss die Vektordaten `mr_roads` und `mr_nat` ein.
+* Erstellen Sie ein neues QGIS Projekt. Laden Sie als erstes die Rasterdatei `marburg_RE.tif` und dann im Anschluss die Vektordatensätze `mr_roads` und `mr_nat` ein.
   * Welche Projektionen besitzen die einzelnen Datensätze?
   * In welcher Projektion werden die Daten angezeigt? 
   * Wo können Sie die Projektion definieren, die zur Darstellung der Daten verwendet werden soll?
@@ -81,6 +81,8 @@ Neben den jeweils aufgaben-spezifischen Einstellungen ist es auf Uni- bzw. Rechn
 
 Die manuelle Erzeugung von Vektordaten wird allgemein als *digitalisieren* bezeichnet. Dabei erzeugen Sie auf z.B. Grundlage von Rasterbilddateien wie Satellitenbildszenen, Luftbildern, thematischen und topographischen Karten, einfachen Screenshots oder anderen Vorlagen Ihre eigenen vektorbasierten Datensätze. Schauen Sie sich dazu die QGIS Hilfe zur  [Digitalisierung](https://docs.qgis.org/3.10/de/docs/user_manual/working_with_vector/editing_geometry_attributes.html) an. Ein ausführliches Anwendungsbeispiel finden Sie unter [Digitizing Forest Stands](https://docs.qgis.org/3.10/en/docs/training_manual/forestry/stands_digitazing.html)
 
+### Zuschneiden von Vektordaten auf eie gewünschte Ausdehnung
+Diese Aufgabe ist ein gutes Beispiel wie knifflig die Suche nach Hilfe sein kann. Natürlich gilt immer dass wir das Internet durchsuchen können. Versuchen Sie es zum Beispiel mit "*zuschneiden von vektordaten qgis*". sie haben viele Treffer aber bei geauerer Betrachtung finden Sie nicht das Zuschneiden von Vektordaten mit Hilfe einer Raster-Datei. Was geschieht beim Zuschneiden? Sie müssen offensichtlich einem Werkzeug mitteilen was die gewünschte Ausdehnung ist. Fangen wir mit diesem Wissen nochmal an. Nur diesmal nutzen wir die Werkzeug-Leiste und tippen dort "*zuschneiden*" bzw. "*clip*" ein. Es werden einige Treffer angezeigt. Unter anderem auch *Vektor auf Ausdehnung zuschneiden*. Wenn wir diesen auswählen können wir bei der *Ausdehnung* drei Optionen wählen...
 ###  Tabellen in QGIS importieren
 Der Import von Tabellen beinhaltet eine Vielzahl von Fallstricken. Ganz generell nutzen Tabellendaten in QGIS nur dann etwas wenn sie entweder selbst Koordinaten (also geographische Informationen) enthalten oder aber einen Schlüssel wie z.B eine ID die bereits existierenden Geometriedaten zuzuordnen ist. Generell können Sie aber folgendem Schema folgen:
 [Import von Tabellenblättern oder CSV-Dateien](http://www.qgistutorials.com/de/docs/3/importing_spreadsheets_csv.html)
