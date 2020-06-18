@@ -18,6 +18,8 @@ Nach dieser Übung können Sie:
   *  eine QGIS Projektdatei mit sinnvollen Einstellungen anlegen
   *  Datenformate und Datenmodelle unterscheiden und sowohl Raster- als auch Vektordatensätze in QGIS öffnen
   *  Projektionen kontrollieren, korrekt definieren und falls notwendig vereinheitlichen
+  * eigenständig Geometrien erzeugen 
+  * die Logik des problembasierten Suchens von geeigneter Hilfe anwenden 
 
 
 
