@@ -72,8 +72,8 @@ In den Aufgaben trainieren Sie die Modellierung von Raumeigenschaften. Sie üben
 
 
 
-Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github.io/moer-bsc-geoinfo-basic/unit00/unit00-03_assignments.html#formale-anforderungen).
-{: .notice--danger}
+Bitte beachten Sie bei ihrer Abgabe die [formalen Anforderungen](https://geomoer.github.io/moer-bsc-geoinfo-basic/unit00/unit00-03_assignments.html#formale-anforderungen).
+{: .notice--info}
 
 
 
