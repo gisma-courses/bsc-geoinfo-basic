@@ -16,7 +16,7 @@ Es ist allerdings essentiell zwischen den zwei üblichen Datenformaten zu unters
 
 ### Typisierung topologischer Beziehungen
 
-Eine einfache Methode zur Typisierung topologischer Beziehungen wurde von ([[http://www.spatial.maine.edu/~max/4Vs9.pdf|Egenhofer et al. 1993]]) vorgeschlagen. Sie wird als 9-Intersection Schema bezeichnet. Das Intersection-Schema ist ein elegantes Konzept zur Klassifikation von topologischen Konfigurationen. Die grundsätzliche Idee basiert auf dem Konzept, dass jedes Element aus einem Rand (b), einem Inneren (i) und einem Komplement (e) besteht. Die Konzepte von Innerem, Rand und Komplement (Äußerem) sind in der allgemeinen Topologie definiert.
+Eine einfache Methode zur Typisierung topologischer Beziehungen wurde von ([Egenhofer et al. 1993](http://www.spatial.maine.edu/~max/4Vs9.pdf) vorgeschlagen. Sie wird als 9-Intersection Schema bezeichnet. Das Intersection-Schema ist ein elegantes Konzept zur Klassifikation von topologischen Konfigurationen. Die grundsätzliche Idee basiert auf dem Konzept, dass jedes Element aus einem Rand (b), einem Inneren (i) und einem Komplement (e) besteht. Die Konzepte von Innerem, Rand und Komplement (Äußerem) sind in der allgemeinen Topologie definiert.
 
 {% include figure image_path=" http://gisbsc.gis-ma.org/GISBScL6/de/image/i9schema.jpg" alt="Egenhofer Topologischer Beziehungen" caption="Abbildung 03-16: Topologische Beziehungennach Egenhofer (GITTA 2005)" %}
 
