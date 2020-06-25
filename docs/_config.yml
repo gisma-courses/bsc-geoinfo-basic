@@ -107,12 +107,12 @@ collections:
   unit03:
     output: true
     permalink: /:collection/:title.html
-  unit04:
+  unit08:
     output: true
     permalink: /:collection/:title.html
-#  unit05:
-#    output: true
-#    permalink: /:collection/:title.html
+  unit09:
+    output: true
+    permalink: /:collection/:title.html
 worksheets:
     output: true
     permalink: /:collection/:title.html
@@ -168,18 +168,28 @@ defaults:
       path: ""
       type: unit03
     values:
-      category: "Reader QGIS"
+      category: "Reader Fragen & Antworten"
       tags: "Unit|03"
       layout: single
       sidebar:
         nav: "units" 
+  # unit08
+  - scope:
+      path: ""
+      type: unit08
+    values:
+      category: "Reader QGIS"
+      tags: "Unit|08"
+      layout: single
+      sidebar:
+        nav: "units"         
   # unit04
   - scope:
       path: ""
-      type: unit04
+      type: unit09
     values:
       category: "Arbeitsblätter"
-      tags: "Unit|04"
+      tags: "Unit|09"
       layout: single
       sidebar:
         nav: "units" 

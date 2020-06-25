@@ -32,8 +32,6 @@ Bereits viele unserer alltäglichen Handlungen sind offenkundig von Problemlösu
 
 Die Lernziele des ersten Readers sind:
 
----
-
   * Reflexion der alltäglichen Verwendung von Geographischen Informationssystemen (GIS)
   * Einführung in Begrifflichkeiten und Definitionen
   * Einführung in die Kommunikationskonzepte von GI in der Geographie
