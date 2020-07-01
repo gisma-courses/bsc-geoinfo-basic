@@ -107,6 +107,9 @@ collections:
   unit03:
     output: true
     permalink: /:collection/:title.html
+  unit04:
+    output: true
+    permalink: /:collection/:title.html    
   unit08:
     output: true
     permalink: /:collection/:title.html
@@ -173,6 +176,16 @@ defaults:
       layout: single
       sidebar:
         nav: "units" 
+  # unit04
+  - scope:
+      path: ""
+      type: unit04
+    values:
+      category: "Reader Räumliche Analysen"
+      tags: "Unit|04"
+      layout: single
+      sidebar:
+        nav: "units"         
   # unit08
   - scope:
       path: ""
