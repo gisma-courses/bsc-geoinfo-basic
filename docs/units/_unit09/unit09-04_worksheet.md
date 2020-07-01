@@ -48,9 +48,11 @@ Nach dieser Übung können Sie:
 ## Hilfestellung 
 
 *  Verwenden Sie zum Ausschneiden des Rasters einen der Marburg-Layer aus den vorherigen Sitzungen als Vorlage.
-*  Das Stichwort für die QGIS Hilfe zum Mittelwertsfilter ist "Focal Statistics", zur Sichtbarkeitsanalyse können sie das Plugin "Visibility Analysys" installieren. Es wird unter den Verarbeitungswerkzeugen angezeigt.
-  * Zu Aufgabe 6.6: Gehen Sie zur Lösung wie folgt vor:
-      * Reklassifizieren Sie die Corine Daten, sodass Stadt den Wert 1 hat und alle anderen Pixel "NoData"
-      * Konvertieren Sie das Raster zu einem Polygondatensatz
-      * Verwenden Sie zonale Statistiken um sich die min/max/mittel Werte als Tabelle auszugeben 
+*  Das Stichwort für die QGIS Hilfe zum Mittelwertsfilter ist "neighbors" in der Verarbeitungsbox. Als Resultat wird r.neighbors aus der GRASS GIS Funktionssammlung angezeigt
+* Zur Sichtbarkeitsanalyse können sie das Plugin "Visibility Analysys" installieren. Es wird im Anschluß unter den Verarbeitungswerkzeugen angezeigt.
+
+*  Zu Aufgabe 04-02: Gehen Sie zur Lösung wie folgt vor:
+*  Reklassifizieren Sie die Corine Daten, sodass Stadt den Wert 1 hat und alle anderen Pixel "NoData"
+*  Konvertieren Sie das Raster zu einem Polygondatensatz
+*  Verwenden Sie zonale Statistiken um sich die min/max/mittel Werte als Tabelle auszugeben 
 
