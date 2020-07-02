@@ -7,28 +7,33 @@ header:
   caption: "Map: [**Dr. John Snow**](https://de.wikipedia.org/wiki/John_Snow_(Mediziner)) [Wellcome Library via wikimedia](https://w.wiki/QtV)"
 
 ---
-Neben den Lagebeziehungen stellen vor allem die Distanzbeziehungen quantitative Methoden zur Abgrenzung von im Raum ähnlichen Merkmalswerten oder auch der Schließung von Lücken fehlender räumlicher Information durch Interpolation zur Verfügung.
 
 
- <!--more-->
+Digitale Geländemodelle liegen in der Regel als Rasterdaten vor und werden häufig in GIS-Analysen verwendet. Dabei tragen diese sowohl unmittelbar zur Höheninformation als auch mittelbar als z. B. morphometrische oder hydrologische Basisdatensätze zum prosessorientierten Erkenntnisgewinn bei.
+
+<!--more-->
+
+Der Themenkomplex der digitalen Geländemodelle inkl. deren Erstellung auf Grundlage unterschiedlicher Fernerkundungssensoren ist vielfältig. Die Materialien im Reader skizzieren verschiedene häufig verwendete Ableitungen und räumliche Filter. Diese Konzepte können auf nahezu alle Rasterdaten angewendet werden.
+
 
 ## Was wir in dieser Einheit vor haben
+
+Im Rahmen der Übung werden Sie Informationen aus digitalen Geländemodellen ableiten und sich mit räumlichen Filtermethoden näher beschäftigen.
 
 
 ## Lernziele 
 
 Nach dieser Übung können Sie:
 
-  *  
-  *  
-  *  
+  *  Neue Rasterdaten durch Anwendung typischer Werkzeuge (Algorithmen) erzeugen
+  *  Diese abgeleiteten Informationen in Fragestellungen zielgerichtet einsetzen
+  *  Abfagen auf solchen Rasterdaten durchführen.
 
 
 ## Benötigte Materialien
 
 * Daten:
   * [SRTM Geländemodell](http://srtm.csi.cgiar.org/SELECTION/inputCoord.asp)
-
 
 
 
@@ -49,10 +54,6 @@ Nach dieser Übung können Sie:
 
 *  Verwenden Sie zum Ausschneiden des Rasters einen der Marburg-Layer aus den vorherigen Sitzungen als Vorlage.
 *  Das Stichwort für die QGIS Hilfe zum Mittelwertsfilter ist "neighbors" in der Verarbeitungsbox. Als Resultat wird r.neighbors aus der GRASS GIS Funktionssammlung angezeigt
-* Zur Sichtbarkeitsanalyse können sie das Plugin "Visibility Analysys" installieren. Es wird im Anschluß unter den Verarbeitungswerkzeugen angezeigt.
-
-*  Zu Aufgabe 04-02: Gehen Sie zur Lösung wie folgt vor:
-*  Reklassifizieren Sie die Corine Daten, sodass Stadt den Wert 1 hat und alle anderen Pixel "NoData"
-*  Konvertieren Sie das Raster zu einem Polygondatensatz
+*  Zur Sichtbarkeitsanalyse können sie das Plugin "Visibility Analysys" installieren. Es wird im Anschluß unter den Verarbeitungswerkzeugen angezeigt.
 *  Verwenden Sie zonale Statistiken um sich die min/max/mittel Werte als Tabelle auszugeben 
 
