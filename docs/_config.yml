@@ -110,6 +110,9 @@ collections:
   unit04:
     output: true
     permalink: /:collection/:title.html    
+  unit05:
+    output: true
+    permalink: /:collection/:title.html       
   unit08:
     output: true
     permalink: /:collection/:title.html
@@ -185,7 +188,17 @@ defaults:
       tags: "Unit|04"
       layout: single
       sidebar:
-        nav: "units"         
+        nav: "units"       
+  # unit04
+  - scope:
+      path: ""
+      type: unit05
+    values:
+      category: "Reader Entscheidungsfindung"
+      tags: "Unit|05"
+      layout: single
+      sidebar:
+        nav: "units"              
   # unit08
   - scope:
       path: ""
@@ -219,7 +232,6 @@ defaults:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-admin
   - jekyll-paginate
   - jekyll-gist
   - jemoji

@@ -9,7 +9,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 # moer: Comment out line below to loosen version restrictions.
-# gem "jekyll", "~> 3.7.2"
+ gem "jekyll", " >= 3.7.2"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # moer: Comment out line below to use custom theme.
@@ -25,14 +25,12 @@ gem "github-pages", group: :jekyll_plugins
 # moer: Add more plugins.
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
-  gem "jekyll-admin"
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
   gem "jekyll-gist"
   gem "jemoji"
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
-  gem "rack", ">= 2.1.4"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
