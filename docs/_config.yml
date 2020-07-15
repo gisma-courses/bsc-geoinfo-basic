@@ -112,7 +112,10 @@ collections:
     permalink: /:collection/:title.html    
   unit05:
     output: true
-    permalink: /:collection/:title.html       
+    permalink: /:collection/:title.html  
+  unit06:
+    output: true
+    permalink: /:collection/:title.html      
   unit08:
     output: true
     permalink: /:collection/:title.html
@@ -189,7 +192,7 @@ defaults:
       layout: single
       sidebar:
         nav: "units"       
-  # unit04
+  # unit05
   - scope:
       path: ""
       type: unit05
@@ -199,7 +202,17 @@ defaults:
       layout: single
       sidebar:
         nav: "units"              
-  # unit08
+  # unit06
+  - scope:
+      path: ""
+      type: unit06
+    values:
+      category: "Reader Projektarbeit"
+      tags: "Unit|06"
+      layout: single
+      sidebar:
+        nav: "units"                
+# unit08
   - scope:
       path: ""
       type: unit08
