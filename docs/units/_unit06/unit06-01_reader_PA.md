@@ -33,7 +33,6 @@ Die meisten der zur Anwendung kommenden Methoden stellen akademische und berufli
 {% include video id="11_REzHgVwtvZMoYER2Qks75PXfRr06sIWYEz3xu1KRc" provider="google-drive" %}
 
 
-
 ## Zielsetzung – oder was will ich warum machen?
 
 Zu Beginn eines Projekts steht immer die Entwicklung einer Fragestellung und zu Beginn dieses Prozesses muss eine Frage oder eine Problemstellung stehen. Um zu einer Fragestellung oder einem Projektarbeitsthema zu gelangen, bestehen  neben grundständiger Neugierde natürlich viele Möglichkeiten. Die vielleicht wichtigsten sind:
