@@ -44,7 +44,7 @@ Die Daten finden Sie in der Archiv-Datei [praxis_L05.zip]((https://raw.githubuse
 
 
 
-Es geht um die Nutzung des Uniwalds als Wildkatzenhabitat. entwickeln und bearbeiten Sie ein Projekt das durch den nachfolgenden Titel und Untertitel skizziert wird. Die Ausarbeitung dieser Analyse sowie die Feinjustierung ist Ihnen freigestellt. Unter den Materialien finden Sie einen Link zu einer Auswahl an Literatur zu diesem Thema.
+Es geht um die Nutzung des Uniwalds als Wildkatzenhabitat. Entwickeln und bearbeiten Sie ein Projekt das durch den nachfolgenden Titel und Untertitel skizziert wird. Sie können den Titel und Untertitel enstprechend Ihres Fokus anpassen. Die Ausarbeitung Fragestellung hat im Kern eine eine GI- Analyse als Hauptarbeitspaket. Die Feinjustierung ist Ihnen freigestellt. Unter den Materialien finden Sie einen Link zu einer Auswahl an Literatur zu diesem Thema.
 
 Der Marburger Uniwald – Lebensraum für die Wildkatze?
 *Eine räumliche Analyse ausgesuchter naturräumlicher Parameter zur Bestimmung des Lebensraumpotenzials der Wildkatze in Nordhessen*
