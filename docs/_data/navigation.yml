@@ -7,7 +7,7 @@ main:
   - title: "Zu ILIAS"
     url: https://ilias.uni-marburg.de/ilias.php?ref_id=1899952&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=tt&baseClass=ilrepositorygui
   - title: "Zu GitHub"
-    url: https://geomoer.github.io/moer-bsc-geoinfo-basic/
+    url: https://geomoc.github.io/gmoc-bsc-geoinfo-basic/
 
     
     
@@ -19,4 +19,4 @@ docs:
       - title: "Zu ILIAS"
         url: https://ilias.uni-marburg.de/ilias.php?ref_id=1899952&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=tt&baseClass=ilrepositorygui
       - title: "Zu GitHub"
-        url: https://geomoer.github.io/moer-bsc-geoinfo-basic/
+        url: https://geomoc.github.io/gmoc-bsc-geoinfo-basic/

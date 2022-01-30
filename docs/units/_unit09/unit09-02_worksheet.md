@@ -26,10 +26,10 @@ Nach dieser Übung können Sie:
 ## Benötigte Materialien
 
 * Daten:
-  * [Marburg Luftbild](https://raw.githubusercontent.com/GeoMOER/moer-bsc-geoinfo-basic/master/docs/assets/data/marburg_RE.tif)
-  * [Open Streetmap Daten](https://raw.githubusercontent.com/GeoMOER/moer-bsc-geoinfo-basic/master/docs/assets/data/mr_nat.zip)
-  * [Open Streetmap Daten](https://raw.githubusercontent.com/GeoMOER/moer-bsc-geoinfo-basic/master/docs/assets/data/mr_roads.zip)
-  * [Attributtabelle](https://raw.githubusercontent.com/GeoMOER/moer-bsc-geoinfo-basic/master/docs/assets/data/mr_objects.xls)
+  * [Marburg Luftbild](https://raw.githubusercontent.com/geoMOC/gmoc-bsc-geoinfo-basic/master/docs/assets/data/marburg_RE.tif)
+  * [Open Streetmap Daten](https://raw.githubusercontent.com/geoMOC/gmoc-bsc-geoinfo-basic/master/docs/assets/data/mr_nat.zip)
+  * [Open Streetmap Daten](https://raw.githubusercontent.com/geoMOC/gmoc-bsc-geoinfo-basic/master/docs/assets/data/mr_roads.zip)
+  * [Attributtabelle](https://raw.githubusercontent.com/geoMOC/gmoc-bsc-geoinfo-basic/master/docs/assets/data/mr_objects.xls)
 
 
 
