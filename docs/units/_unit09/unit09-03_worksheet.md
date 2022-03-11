@@ -27,9 +27,9 @@ Nach dieser Übung können Sie:
 ## Benötigte Materialien
 
 * Daten:
-  * [POI Marburg](https://raw.githubusercontent.com/geoMOC/gmoc-bsc-geoinfo-basic/master/docs/assets/data/mr_points.zip)
-  * [Open Streetmap Daten](https://raw.githubusercontent.com/geoMOC/gmoc-bsc-geoinfo-basic/master/docs/assets/data/mr_nat.zip)
-  * [Open Streetmap Daten](https://raw.githubusercontent.com/geoMOC/gmoc-bsc-geoinfo-basic/master/docs/assets/data/mr_roads.zip)
+  * [POI Marburg](https://raw.githubusercontent.com/gisma-courses/bsc-geoinfo-basic/master/docs/assets/data/mr_points.zip)
+  * [Open Streetmap Daten](https://raw.githubusercontent.com/gisma-courses/bsc-geoinfo-basic/master/docs/assets/data/mr_nat.zip)
+  * [Open Streetmap Daten](https://raw.githubusercontent.com/gisma-courses/bsc-geoinfo-basic/master/docs/assets/data/mr_roads.zip)
 
 
 

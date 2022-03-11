@@ -43,7 +43,7 @@ Nach dieser Übung können Sie:
 *  MOF-Geländemodell 1 Meter Auflösung
 *  Corine Landnutzung MOF
 
-Die Daten finden Sie in der Archiv-Datei [praxis_L05.zip]((https://raw.githubusercontent.com/geoMOC/gmoc-bsc-geoinfo-basic/master/docs/assets/data/praxis_L05.zip))
+Die Daten finden Sie in der Archiv-Datei [praxis_L05.zip]((https://raw.githubusercontent.com/gisma-courses/bsc-geoinfo-basic/master/docs/assets/data/praxis_L05.zip))
 
 Bitte entpacken Sie diese in einen geeigneten Ordner. 
 
@@ -76,7 +76,7 @@ Sie sollen exemplarisch die Entscheidungsfindung  – Mehrere Ziele, mehrere Kri
 *  Corine Landnutzung MOF
 *  Koordinaten Strecken-Anfang (478188,5632178), Strecken-Ende(476170,5631657) beide [EPSG:32632]
 
-Die Daten finden Sie in der Archiv-Datei [praxis_L05.zip]((https://raw.githubusercontent.com/geoMOC/gmoc-bsc-geoinfo-basic/master/docs/assets/data/praxis_L05.zip))
+Die Daten finden Sie in der Archiv-Datei [praxis_L05.zip]((https://raw.githubusercontent.com/gisma-courses/bsc-geoinfo-basic/master/docs/assets/data/praxis_L05.zip))
 
 Bitte entpacken Sie diese in einen geeigneten Ordner.
 Sie sollen einen Fitness-Trail durch den Uniwald (Marburg Open Forest, MOF) bei Caldern planen. Diese soll vom Parkplatz in der Nähe des Kreisverkehrs am südöstlichen Rand bis zum Grillplatz am nordwestlichen Ende verlaufen. Sie haben die Vorstellung, dass die Strecke bevorzugt durch Wald und möglichst weit weg von Wegen entlang führen soll. Außerdem soll Ihre Strecke (um möglichst anspruchsvoll zu sein) maximale Steigungen aufweisen.

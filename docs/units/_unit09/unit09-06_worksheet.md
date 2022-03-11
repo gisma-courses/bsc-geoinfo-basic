@@ -40,7 +40,7 @@ Nach dieser Übung können Sie:
 *  Weitere Daten Ihrer Wahl
 *  Literatur Ihrer Wahl
 
-Die Daten finden Sie in der Archiv-Datei [praxis_L05.zip]((https://raw.githubusercontent.com/geoMOC/gmoc-bsc-geoinfo-basic/master/docs/assets/data/praxis_L05.zip))
+Die Daten finden Sie in der Archiv-Datei [praxis_L05.zip]((https://raw.githubusercontent.com/gisma-courses/bsc-geoinfo-basic/master/docs/assets/data/praxis_L05.zip))
 
 
 

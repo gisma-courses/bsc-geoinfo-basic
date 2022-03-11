@@ -72,7 +72,7 @@ In den Aufgaben trainieren Sie die Modellierung von Raumeigenschaften. Sie üben
 
 
 
-Bitte beachten Sie bei ihrer Abgabe die [formalen Anforderungen](https://geomoc.github.io/gmoc-bsc-geoinfo-basic/unit00/unit00-03_assignments.html#formale-anforderungen).
+Bitte beachten Sie bei ihrer Abgabe die [formalen Anforderungen](https://gisma-courses.github.io/bsc-geoinfo-basic/unit00/unit00-03_assignments.html#formale-anforderungen).
 {: .notice--info}
 
 
