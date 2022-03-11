@@ -1,3 +1,5 @@
+**Achtung neuere Version verfügbar**
+
 Dieser Kurs wird Ihnen im Rahmen der [Open Educational Resources](https://oer.uni-marburg.de) Initiative der [Universität Marburg, Deutschland](https://www.uni-marburg.de/de) am [Fachbereich Geographie](https://www.uni-marburg.de/fb19) angeboten. 
 
 Die Verantwortung für den Inhalt liegt bei den Dozenten. Aussagen, Meinungen und/oder Schlussfolgerungen sind die der Dozenten und spiegeln nicht unbedingt die Meinung der Vertreter der Universität Marburg wider. 
