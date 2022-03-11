@@ -1,5 +1,5 @@
 ---
-title: Geoinformatik für Bachelor Basiskurs
+title: Geoinformatik Basiskurs für Bachelor 
 layout: splash
 date: '2020-06-04 13:00:00 +0100'
 header:
