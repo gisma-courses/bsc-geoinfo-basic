@@ -1,6 +1,5 @@
 ---
-title: Geoinformatik Basiskurs für Bachelor 
-layout: splash
+title: Methoden der Geoinformatik Basiskurs 
 date: '2020-06-04 13:00:00 +0100'
 header:
   overlay_color: "#000"
