@@ -1,9 +1,9 @@
-Dieser Kurs wird Ihnen im Rahmen der [Open Educational Resources](https://oer.uni-marburg.de) Initiative der [Universität Marburg, Deutschland](https://www.uni-marburg.de/de) am [Fachbereich Geographie](https://www.uni-marburg.de/fb19) angeboten. [Kursfreigabe auf Github](https://gisma-courses.github.io/bsc-geoinfo-basic/)
+Dieser Kurs wird Ihnen im Rahmen der [Open Educational Resources](https://oer.uni-marburg.de) Initiative der [Universität Marburg, Deutschland](https://www.uni-marburg.de/de) am [Fachbereich Geographie](https://www.uni-marburg.de/fb19) angeboten. 
 
 Die Verantwortung für den Inhalt liegt bei den Dozenten. Aussagen, Meinungen und/oder Schlussfolgerungen sind die der Dozenten und spiegeln nicht unbedingt die Meinung der Vertreter der Universität Marburg wider. 
 
 
-This course is brought to you as part of the [Open Educational Resources](https://oer.uni-marburg.de) initiative of [Marburg University, Germany](https://www.uni-marburg.de/de) at the [Department of Geography](https://www.uni-marburg.de/fb19). [Course Release on Github](https://gisma-courses.github.io/bsc-geoinfo-basic/)
+This course is brought to you as part of the [Open Educational Resources](https://oer.uni-marburg.de) initiative of [Marburg University, Germany](https://www.uni-marburg.de/de) at the [Department of Geography](https://www.uni-marburg.de/fb19).
 
 The responsibility for the content rests with the instructors. Statements, opinions and/or conclusions are the ones from the instructors and do not necessarily reflect the opinion of the representatives of Marburg University.  
 
