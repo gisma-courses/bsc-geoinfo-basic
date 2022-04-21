@@ -1,4 +1,4 @@
-**Achtung neuere Version verfügbar**
+# Achtung alte Version - neuere Version verfügbar
 
 Dieser Kurs wird Ihnen im Rahmen der [Open Educational Resources](https://oer.uni-marburg.de) Initiative der [Universität Marburg, Deutschland](https://www.uni-marburg.de/de) am [Fachbereich Geographie](https://www.uni-marburg.de/fb19) angeboten. 
 
